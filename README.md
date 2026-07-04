@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Front End Developer</h1>
-<p>A passionate frontend developer from </p>
+<p>A passionate Full Stack developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
