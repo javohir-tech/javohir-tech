@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Front End Developer</h1>
+<h1>Hi 👋, I'm Full Stack Developer</h1>
 <p>A passionate Full Stack developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <div data-importer="techs" align="left">
